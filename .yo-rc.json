@@ -43,7 +43,7 @@
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
     "languages": ["en", "fr"],
-    "lastLiquibaseTimestamp": 1627172660000,
-    "entities": ["Librarybook"]
+    "lastLiquibaseTimestamp": 1627175026000,
+    "entities": ["Librarybook", "Library"]
   }
 }

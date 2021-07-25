@@ -138,7 +138,6 @@ public class LibrarybookResource {
     @GetMapping("/librarybooks")
     public List<Librarybook> getAllLibrarybooks() {
         log.debug("REST request to get all Librarybooks");
-        System.out.println("+++++++++++++++++++++++++++");
         return librarybookService.findAll();
     }
 
